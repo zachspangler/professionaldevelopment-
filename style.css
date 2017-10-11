@@ -37,3 +37,14 @@ img {
 	display: block;
 	margin: auto;
 }
+
+footer {
+	text-align: center;
+	display: block;
+	margin: auto;
+	padding: 1em;
+}
+
+i {
+	padding: .2em;
+}
