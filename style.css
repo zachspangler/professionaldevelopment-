@@ -1,0 +1,24 @@
+
+header {
+	background-color: gray;
+	padding: 1em;
+	text-align: center;
+}
+
+.div-color {
+	background-color: lightgray;
+}
+
+.reflection {
+	outline: auto;
+	text-align: center;
+	padding: 1em;
+	background-color: black;
+	color: ghostwhite;
+	text-decoration: none;
+}
+
+h4 {
+	text-align: center;
+	padding-bottom: .5em;
+}
