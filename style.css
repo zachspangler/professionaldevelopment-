@@ -10,10 +10,8 @@ header {
 }
 
 .reflection {
-	 outline: auto;
 	 text-align: center;
 	 padding: 4em;
-	 background-color: black;
 	 color: ghostwhite;
 	 text-decoration: none;
  }
@@ -47,4 +45,18 @@ footer {
 
 i {
 	padding: .2em;
+}
+
+.weekly {
+	width:150px;
+	height:150px;
+	border-radius:75%;
+	overflow:hidden;
+}
+
+a {
+	position:relative;
+	display:inline-block;
+	padding:0;
+	margin:10px;
 }
